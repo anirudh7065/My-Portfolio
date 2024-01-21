@@ -1,3 +1,7 @@
+*{
+    margin:0;
+    padding: 0;
+}
 body{
     /* background-color: black; */
     /* background-image: url("photo-1510057622795-5c8122c2c665.avif"); */
@@ -13,6 +17,11 @@ h1{
     display: block;
     margin-bottom: 30px;
     margin-top: 30px;
+    color: rgb(255, 174, 0);
+    text-decoration-line: underline;
+    text-decoration-color: rgb(33, 255, 47);
+    text-underline-offset: 10px;
+    text-decoration-style: dashed;
 }
 .table{
     max-width: 400px;
@@ -42,19 +51,8 @@ table{
     text-align: center;
     border: 3px solid rgb(255, 0, 0);
 }
-h1{
-    color: rgb(255, 174, 0);
-    text-decoration-line: underline;
-    text-decoration-color: rgb(33, 255, 47);
-    text-underline-offset: 10px;
-    text-decoration-style: dashed;
-}
 .Subject{
     color: rgb(225, 255, 0);
-}
-*{
-    margin:0;
-    padding: 0;
 }
 body{
     background-color: rgb(0, 0, 0);
