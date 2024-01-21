@@ -84,3 +84,6 @@ h1{
     display: block;
     padding: 50px;
 }
+main p a{
+    color: #f1064d;
+}
